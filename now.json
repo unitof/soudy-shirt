@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "soudy-shirt",
+  "alias": "soudyshirt.jacobford.com",
   "builds": [
     {
       "src": "**/*.php",
