@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "soudy-shirt",
+  "builds": [
+    {
+      "src": "**/*.php",
+      "use": "@now/php"
+    },
+    {
+      "src": "**/*",
+      "use": "@now/static"
+    }
+  ]
+}
