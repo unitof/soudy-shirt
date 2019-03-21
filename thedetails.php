@@ -11,9 +11,9 @@
 	
 	<meta property="og:title" content="The Soudy Shirt: The Details">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="http://unitof.com/soudyshirt">
+	<meta property="og:url" content="https://soudyshirt.jacobford.com">
 	<meta property="og:site_name" content="The Soudy Shirt">
-	<meta property="og:image" content="http://unitof.com/soudyshirt/images/thumb.png">
+	<meta property="og:image" content="https://soudyshirt.jacobford.com/images/thumb.png">
     <meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="300">
     <meta property="og:image:height" content="300">

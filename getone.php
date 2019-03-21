@@ -11,9 +11,9 @@
 	
 	<meta property="og:title" content="Buy The Soudy Shirt">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="http://unitof.com/soudyshirt">
+	<meta property="og:url" content="https://soudyshirt.jacobford.com">
 	<meta property="og:site_name" content="The Soudy Shirt">
-	<meta property="og:image" content="http://unitof.com/soudyshirt/images/thumb.png">
+	<meta property="og:image" content="https://soudyshirt.jacobford.com/images/thumb.png">
     <meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="300">
     <meta property="og:image:height" content="300">
@@ -24,7 +24,7 @@
 	<link rel="image_src" href="images/thumb.png">
 	<link rel="stylesheet" type="text/css" href="soudyshirt.css">
 
-	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 	<?php include("includes/ga.php"); ?>
 </head>
 
