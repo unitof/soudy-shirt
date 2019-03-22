@@ -11,5 +11,8 @@
       "src": "**/*",
       "use": "@now/static"
     }
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
