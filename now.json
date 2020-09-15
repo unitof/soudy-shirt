@@ -10,7 +10,8 @@
     {
       "src": ".*",
       "headers": {
-        "Cache-Control": "s-maxage=604800, stale-while-revalidate"
+        "Cache-Control": "s-maxage=604800, stale-while-revalidate",
+        "Strict-Transport-Security": "max-age=2592000"
       },
       "continue": true
     },
