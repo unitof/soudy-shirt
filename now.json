@@ -8,6 +8,13 @@
   },
   "routes": [
     {
+      "src": ".*",
+      "headers": {
+        "Cache-Control": "s-maxage=604800, stale-while-revalidate"
+      },
+      "continue": true
+    },
+    {
       "src": "/",
       "dest": "/api/index.php"
     },
