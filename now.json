@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "name": "soudy-shirt",
   "alias": "soudyshirt.jacobford.com",
-  "builds": [
+  "functions": {
+    "**/*.php": {
+      "runtime": "vercel-php@0.3.1"
+    }
+  },
+  "routes": [
     {
-      "src": "**/*.php",
-      "use": "@now/php"
-    },
-    {
-      "src": "**/*",
-      "use": "@now/static"
+      "src": "(.*).php",
+      "dest": "/api/$1.php"
     }
   ],
   "github": {
